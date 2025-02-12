@@ -1,0 +1,1000 @@
+{
+    "recipes": [
+      { 
+        "id": 1, 
+        "name": "French fries", 
+        "rating": "4.5/5",
+        "difficulty": "Medium", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXpnuGS1FwSwNZ9wea-xX_Y_yZiAyR11jPA&s",
+        "ingredients": [
+          "Spaghetti pasta",
+          "Ground beef",
+          "Tomato sauce",
+          "Onion",
+          "Garlic",
+          "Carrot",
+          "Celery",
+          "Olive oil",
+          "Salt",
+          "Black pepper",
+          "Parmesan cheese"
+        ],
+        "instructions": [
+          "Cook spaghetti according to package instructions.",
+          "In a pan, heat olive oil and sauté chopped onions, garlic, carrots, and celery until soft.",
+          "Add ground beef and cook until browned.",
+          "Pour in tomato sauce, season with salt and pepper, and simmer for 20 minutes.",
+          "Serve the sauce over the cooked spaghetti and top with Parmesan cheese."
+        ]
+      },
+      { 
+        "id": 2, 
+        "name": "veg biryani", 
+        "rating": "4.5/5",
+        "difficulty": "Hard", 
+        "image": "https://static.wixstatic.com/media/91e241_0cf76aa5613b4055be2f922f71edeaa0~mv2.jpg/v1/fill/w_560,h_372,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Ustaadi%20Hyderabadi%20Veg%20Biryani.jpg",
+        "ingredients": [
+          "Chicken thighs",
+          "Onions",
+          "Garlic",
+          "Ginger",
+          "Tomatoes",
+          "Curry powder",
+          "Cumin",
+          "Chili powder",
+          "Coconut milk",
+          "Coriander",
+          "Rice"
+        ],
+        "instructions": [
+          "In a large pot, sauté onions, garlic, and ginger until fragrant.",
+          "Add chicken thighs and cook until browned on all sides.",
+          "Stir in curry powder, cumin, and chili powder, then add tomatoes.",
+          "Pour in coconut milk and bring to a simmer. Cook for 30 minutes until the chicken is cooked through.",
+          "Serve the curry with steamed rice and garnish with fresh coriander."
+        ]
+      },
+      { 
+        "id": 3, 
+        "name": "KFC chicken", 
+        "rating": "4.9/5",
+        "difficulty": "Easy", 
+        "image": "https://images.jdmagicbox.com/v2/comp/delhi/a5/011pxx11.xx11.191129200330.r1a5/catalogue/kfc-dabri-delhi-fast-food-0cw2qlrm9j.jpg",
+        "ingredients": [
+          "Bell peppers",
+          "Carrots",
+          "Zucchini",
+          "Broccoli",
+          "Soy sauce",
+          "Olive oil",
+          "Ginger",
+          "Garlic",
+          "Rice"
+        ],
+        "instructions": [
+          "Cut vegetables into bite-sized pieces.",
+          "In a pan, heat olive oil and sauté garlic and ginger until fragrant.",
+          "Add the vegetables and stir-fry for 5-7 minutes until tender.",
+          "Pour in soy sauce and cook for another 2-3 minutes.",
+          "Serve with rice."
+        ]
+      },
+      { 
+        "id": 4, 
+        "name": "Mutton chaap", 
+        "rating": "4.3/5",
+        "difficulty": "Medium", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3V4s2BYEaQrHA9JsAvRpJWhNHDuR8LCME4w&s",
+        "ingredients": [
+          "Fettuccine pasta",
+          "Chicken breasts",
+          "Heavy cream",
+          "Parmesan cheese",
+          "Garlic",
+          "Butter",
+          "Olive oil",
+          "Salt",
+          "Black pepper"
+        ],
+        "instructions": [
+          "Cook fettuccine pasta according to package instructions.",
+          "In a pan, cook chicken breasts until browned and cooked through, then set aside.",
+          "In the same pan, melt butter and sauté garlic until fragrant.",
+          "Add heavy cream and bring to a simmer, then stir in Parmesan cheese.",
+          "Slice the chicken and add to the sauce, then toss the cooked pasta into the sauce.",
+          "Season with salt and pepper and serve."
+        ]
+      },
+      { 
+        "id": 5, 
+        "name": "pav bajji", 
+        "rating": "4.6/5",
+        "difficulty": "Hard", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GsQ2JmP3gWTGB0CseBVC9q27Ro32Y0qxLA&s",
+        "ingredients": [
+          "Lasagna noodles",
+          "Ground beef",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese",
+          "Onions",
+          "Garlic",
+          "Eggs",
+          "Basil",
+          "Oregano"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "Cook lasagna noodles according to package instructions.",
+          "In a pan, cook ground beef with onions and garlic until browned.",
+          "Stir in tomato sauce and season with basil, oregano, salt, and pepper.",
+          "In a bowl, mix ricotta cheese, eggs, and a pinch of salt.",
+          "Layer noodles, meat sauce, ricotta mixture, and mozzarella cheese in a baking dish.",
+          "Top with Parmesan cheese and bake for 40 minutes."
+        ]
+      },
+      { 
+        "id": 6, 
+        "name": "Radish kimich", 
+        "rating": "4.5/5",
+        "difficulty": "Medium", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9PzyW_vDgwviEyLT7qeFaxW9hURk_g0QF2Q&s",
+        "ingredients": [
+          "White fish fillets",
+          "Taco seasoning",
+          "Corn tortillas",
+          "Cabbage",
+          "Avocado",
+          "Lime",
+          "Sour cream",
+          "Cilantro"
+        ],
+        "instructions": [
+          "Season fish fillets with taco seasoning and cook in a pan.",
+          "Shred cabbage and slice avocado.",
+          "Warm the tortillas in a pan.",
+          "Assemble tacos with fish, cabbage, avocado, sour cream, and a squeeze of lime.",
+          "Garnish with fresh cilantro."
+        ]
+      },
+      { 
+        "id": 7, 
+        "name": "Momos", 
+        "rating": "1.5/5",
+        "difficulty": "Medium", 
+        "image": "https://4.imimg.com/data4/TP/GW/MY-4023169/chicken-momos.jpg",
+        "ingredients": [
+          "Eggplants",
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Parmesan cheese",
+          "Breadcrumbs",
+          "Eggs",
+          "Olive oil",
+          "Basil"
+        ],
+        "instructions": [
+          "Slice eggplants and dip them in beaten eggs, then coat with breadcrumbs.",
+          "Fry the eggplant slices in olive oil until golden brown.",
+          "Layer eggplant slices, tomato sauce, and cheeses in a baking dish.",
+          "Bake at 375°F (190°C) for 25 minutes.",
+          "Garnish with fresh basil."
+        ]
+      },
+      { 
+        "id": 8, 
+        "name": "Malai khaja", 
+        "rating": "3.5/5",
+        "difficulty": "Easy", 
+        "image": "https://mamadoskitchen.com/wp-content/uploads/2022/06/Malai-Khaja-02-480x270.jpg",
+        "ingredients": [
+          "Chicken breasts",
+          "Romaine lettuce",
+          "Caesar dressing",
+          "Croutons",
+          "Parmesan cheese"
+        ],
+        "instructions": [
+          "Grill chicken breasts and slice them.",
+          "Toss romaine lettuce with Caesar dressing.",
+          "Top with grilled chicken, croutons, and Parmesan cheese."
+        ]
+      },
+      { 
+        "id": 9, 
+        "name": "Corn samosa", 
+        "rating": "2.5/5",
+        "difficulty": "Medium", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-v0ohtZU0j_MYyxSBZqrOVsdx7XcNlGkxQ&s",
+        "ingredients": [
+          "Shrimp",
+          "Garlic",
+          "Butter",
+          "Lemon",
+          "Parsley",
+          "Pasta"
+        ],
+        "instructions": [
+          "Cook pasta according to package instructions.",
+          "In a pan, melt butter and sauté garlic.",
+          "Add shrimp and cook until pink.",
+          "Stir in lemon juice and parsley.",
+          "Toss the pasta in the shrimp mixture and serve."
+        ]
+      },
+      { 
+        "id": 10, 
+        "name":"Sandwitch", 
+        "rating": "4.5/5",
+        "difficulty": "Easy", 
+        "image": "https://vaya.in/recipes/wp-content/uploads/2018/06/Club-sandwich.jpg",
+        "ingredients": [
+          "Bread",
+          "Cheese",
+          "Butter"
+        ],
+        "instructions": [
+          "Butter the bread slices.",
+          "Place cheese between the bread slices.",
+          "Grill the sandwich in a pan until golden brown and the cheese is melted."
+        ]
+      },
+      { 
+        "id": 11, 
+        "name": "Donuts", 
+        "rating": "2.5/5",
+        "difficulty": "Easy", 
+        "image": "https://atsloanestable.com/wp-content/uploads/2023/12/christmas-donuts1-480x270.jpg",
+        "ingredients": [
+          "Flour",
+          "Eggs",
+          "Milk",
+          "Sugar",
+          "Baking powder",
+          "Salt",
+          "Butter"
+        ],
+        "instructions": [
+          "Mix the dry ingredients in one bowl and wet ingredients in another.",
+          "Combine both mixtures and stir until smooth.",
+          "Cook pancakes on a griddle, flipping when bubbles form.",
+          "Serve with syrup and butter."
+        ]
+      },
+      { 
+        "id": 12, 
+        "name": "Pomfret tawa fish fry", 
+        "rating": "2/5",
+        "difficulty": "Medium", 
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAeOp2_x-hcu2QP0RSojZn6449wGcQ9GTOuT0B_Kk5qC8jR0zmKrRauDSaOXWg9luYwjhCXxLBgyLdzl4ShAaCrQfNv2EZ0-R8VxWJqi-TZwtaqJnfUBS5R9qreeiENp5lQJu5pUS82V5G/s1600/IMG_2580-1.jpg",
+        "ingredients": [
+          "Eggplant",
+          "Zucchini",
+          "Tomatoes",
+          "Bell peppers",
+          "Onion",
+          "Garlic",
+          "Olive oil",
+          "Herbs"
+        ],
+        "instructions": [
+          "Sauté onions and garlic in olive oil until fragrant.",
+          "Add chopped vegetables and cook until tender.",
+          "Add herbs and simmer for another 10 minutes.",
+          "Serve warm."
+        ]
+      },
+      { 
+        "id": 13, 
+        "name": "crab curry", 
+        "rating": "1.0/5",
+        "difficulty": "Medium", 
+        "image": "https://www.seriouseats.com/thmb/3dFjzacZ0gSdlibO6UpuBwBeSaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__03__25.03.201420Spicy-Indian-Crab-Masala-Fry-cd7dc3ba0d8b4f3489c13c4989ddeb4c.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Taco seasoning",
+          "Taco shells",
+          "Cheese",
+          "Lettuce",
+          "Tomato",
+          "Sour cream"
+        ],
+        "instructions": [
+          "Brown the ground beef in a skillet and season with taco seasoning.",
+          "Fill taco shells with beef, cheese, lettuce, tomato, and sour cream.",
+          "Serve immediately."
+        ]
+      },
+      { 
+        "id": 14, 
+        "name": "Chichen Shawarma", 
+        "rating": "4.5/5",
+        "difficulty": "Hard", 
+        "image": "https://ministryofcurry.com/wp-content/uploads/2021/05/chicken-shawarma-6.jpg",
+        "ingredients": [
+          "Arborio rice",
+          "Mushrooms",
+          "Onion",
+          "Garlic",
+          "Vegetable broth",
+          "Parmesan cheese",
+          "Butter",
+          "Olive oil"
+        ],
+        "instructions": [
+          "Sauté onions, garlic, and mushrooms in olive oil and butter.",
+          "Add rice and stir to coat with oil.",
+          "Slowly add broth, stirring constantly until the rice is tender.",
+          "Finish with Parmesan cheese and serve."
+        ]
+      },
+      { 
+        "id": 15, 
+        "name": "Egg Rolls", 
+        "rating": "4.3/5",
+        "difficulty": "Easy", 
+        "image": "https://img-global.cpcdn.com/recipes/4691709017980928/400x400cq70/photo.jpg",
+        "ingredients": [
+          "Salmon fillets",
+          "Lemon",
+          "Garlic",
+          "Olive oil",
+          "Herbs"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "Place salmon on a baking sheet, drizzle with olive oil, garlic, and lemon juice.",
+          "Sprinkle with herbs and bake for 15-20 minutes."
+        ]
+      },
+      { 
+        "id": 16, 
+        "name": "Ramen", 
+        "rating": "4.9/5",
+        "difficulty": "Easy", 
+        "image": "https://imageproxy.wolt.com/assets/67332fb929cd4b694e529bf5",
+        "ingredients": [
+          "Canned tuna",
+          "Mayonnaise",
+          "Celery",
+          "Onion",
+          "Lemon"
+        ],
+        "instructions": [
+          "Mix tuna, mayonnaise, chopped celery, and onion.",
+          "Add a squeeze of lemon and mix well.",
+          "Serve on bread or a salad."
+        ]
+      },
+      { 
+        "id": 17, 
+        "name": "Bhadham milk", 
+        "rating": "4.9/5",
+        "difficulty": "Medium", 
+        "image": "https://aartimadan.com/wp-content/uploads/2021/03/Badam-Milk.jpg",
+        "ingredients": [
+          "Chicken breasts",
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Breadcrumbs",
+          "Eggs",
+          "Parmesan cheese"
+        ],
+        "instructions": [
+          "Coat chicken breasts in breadcrumbs and fry until golden.",
+          "Top with tomato sauce and mozzarella cheese.",
+          "Bake at 375°F (190°C) for 20 minutes."
+        ]
+      },
+      { 
+        "id": 18, 
+        "name": "Egg puff", 
+        "rating": "2.5/5",
+        "difficulty": "Medium", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqk0cNtcWu9qDkX8a0RDuA-KczkyQJ7OuaPA&s",
+        "ingredients": [
+          "Beans",
+          "Tomatoes",
+          "Onion",
+          "Garlic",
+          "Bell peppers",
+          "Chili powder",
+          "Cumin"
+        ],
+        "instructions": [
+          "Sauté onions and garlic, then add bell peppers and cook until soft.",
+          "Add beans, tomatoes, chili powder, and cumin.",
+          "Simmer for 30 minutes, then serve."
+        ]
+      },
+      { 
+        "id": 19, 
+        "name": "Gobhi Manchuria",
+        "rating": "5/5", 
+        "difficulty": "Medium", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLNGr6JMJehH3-KtuLU9qE-CVarT4noK8R1A&s",
+        "ingredients": [
+          "Spaghetti pasta",
+          "Eggs",
+          "Pancetta",
+          "Parmesan cheese",
+          "Garlic",
+          "Olive oil"
+        ],
+        "instructions": [
+          "Cook pasta according to package instructions.",
+          "Fry pancetta in olive oil until crispy.",
+          "Toss pasta with pancetta, eggs, and Parmesan cheese.",
+          "Serve immediately."
+        ]
+      },
+      { 
+        "id": 20, 
+        "name": "Mirchi bajji", 
+        "rating": "4.2/5",
+        "difficulty": "Medium", 
+        "image": "https://t4.ftcdn.net/jpg/03/52/76/31/360_F_352763157_dSOfaW1frStnd65u9nzezth22A9PNE6q.jpg",
+        "ingredients": [
+          "Pie crust",
+          "Eggs",
+          "Heavy cream",
+          "Cheese",
+          "Bacon",
+          "Spinach"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "Whisk eggs with cream and pour into pie crust.",
+          "Add bacon, cheese, and spinach, then bake for 25 minutes."
+        ]
+      },
+      { 
+        "id": 21, 
+        "name": "Fish cake", 
+        "rating": "3.5/5",
+        "difficulty": "Medium", 
+        "image": "https://futuredish.com/wp-content/uploads/2022/03/Eomuk-Tang.jpg",
+        "ingredients": [
+          "Chicken breasts",
+          "Bell peppers",
+          "Soy sauce",
+          "Ginger",
+          "Garlic",
+          "Rice"
+        ],
+        "instructions": [
+          "Cook chicken until browned.",
+          "Add bell peppers, soy sauce, ginger, and garlic.",
+          "Stir-fry for 5 minutes, then serve with rice."
+        ]
+      },
+      { 
+        "id": 22, 
+        "name": "Monstar cookies", 
+        "rating": "4.0/5",
+        "difficulty": "Hard", 
+        "image": "https://thecookiedoughdiaries.com/wp-content/uploads/2022/04/cookie-monster-cookies-feature-500x375.jpg",
+        "ingredients": [
+          "Pork shoulder",
+          "BBQ sauce",
+          "Buns",
+          "Coleslaw"
+        ],
+        "instructions": [
+          "Slow-cook the pork shoulder until tender.",
+          "Shred the pork and mix with BBQ sauce.",
+          "Serve on buns with coleslaw."
+        ]
+      },
+      { 
+        "id": 23, 
+        "name": "Cheesse corn nuggets", 
+        "rating": "4.7/5",
+        "difficulty": "Medium", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbJeZD85fB8ZUBTvqRxjAWSy88eWr7h7f2A&s",
+        "ingredients": [
+          "Rice",
+          "Eggs",
+          "Soy sauce",
+          "Carrots",
+          "Green onions",
+          "Peas"
+        ],
+        "instructions": [
+          "Scramble eggs in a pan and set aside.",
+          "Sauté carrots and peas in a pan.",
+          "Add rice and soy sauce, then mix in scrambled eggs."
+        ]
+      },
+      { 
+        "id": 24, 
+        "name": "Milkshake", 
+        "rating": "4.9/5",
+        "difficulty": "Hard", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzc8KpTbydFg7eTGAZWsyn5S2UlGnNDiESg&s",
+        "ingredients": [
+          "Chicken thighs",
+          "Tomato paste",
+          "Yogurt",
+          "Spices",
+          "Cream",
+          "Rice"
+        ],
+        "instructions": [
+          "Marinate chicken in yogurt and spices.",
+          "Cook chicken in a pan until browned.",
+          "Add tomato paste, cream, and simmer.",
+          "Serve with rice."
+        ]
+      },
+      { 
+        "id": 25, 
+        "name": "Falooda", 
+        "rating": "4.0/5",
+        "difficulty": "Medium", 
+        "image": "https://static.india.com/wp-content/uploads/2024/09/FALOODA-1.jpg?impolicy=Medium_Widthonly&w=350&h=263",
+        "ingredients": [
+          "Clams",
+          "Potatoes",
+          "Onions",
+          "Celery",
+          "Cream",
+          "Butter"
+        ],
+        "instructions": [
+          "Sauté onions and celery in butter.",
+          "Add clams, potatoes, and cream, then simmer until potatoes are tender."
+        ]
+      },
+      { 
+        "id": 26, 
+        "name": "Puri masala curry", 
+        "rating": "4.4/5",
+        "difficulty": "Hard", 
+        "image": "https://img.freepik.com/premium-photo/poori-masala-curry-aloo-sabzi-puri_466689-77529.jpg",
+        "ingredients": [
+          "Pork cutlets",
+          "Breadcrumbs",
+          "Eggs",
+          "Flour",
+          "Lemon"
+        ],
+        "instructions": [
+          "Dredge pork cutlets in flour, dip in egg, then coat with breadcrumbs.",
+          "Fry until golden brown and serve with lemon."
+        ]
+      },
+      { 
+        "id": 27, 
+        "name": "Fondant cake", 
+        "rating": "4.5/5",
+        "difficulty": "Hard", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3ZacVrB-WBy_FQ0sjtoKOQe_RETb8knptw&s",
+        "ingredients": [
+          "Beef tenderloin",
+          "Puff pastry",
+          "Mushrooms",
+          "Dijon mustard",
+          "Egg yolk"
+        ],
+        "instructions": [
+          "Sear beef tenderloin and coat with Dijon mustard.",
+          "Spread mushrooms over the beef and wrap in puff pastry.",
+          "Brush with egg yolk and bake."
+        ]
+      },
+      { 
+        "id": 28, 
+        "name": "Pancakes", 
+        "rating": "4.5/5", 
+        "difficulty": "Hard", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM_akMif3YnlgLiLQyxZCQaX3tI2hftTIKLA&s",
+        "ingredients": [
+          "Duck breasts",
+          "Garlic",
+          "Thyme",
+          "Butter",
+          "Red wine"
+        ],
+        "instructions": [
+          "Score duck breasts and sear skin-side down.",
+          "Flip and cook until desired doneness.",
+          "Finish with garlic, thyme, and butter in the pan."
+        ]
+      },
+      { 
+        "id": 29, 
+        "name": "Pizza",
+        "rating": "4.5/5", 
+        "difficulty": "Medium", 
+        "image": "https://www.eatingwell.com/thmb/mjTwJUl1pXwysCQ5No8710wmsBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7582923-c32367853b314c8cb6c3d3c98088ef29.jpg",
+        "ingredients": [
+          "Beef sirloin",
+          "Mushrooms",
+          "Onions",
+          "Sour cream",
+          "Beef broth",
+          "Egg noodles"
+        ],
+        "instructions": [
+          "Cook beef and mushrooms in a pan until browned.",
+          "Add onions and beef broth, then simmer.",
+          "Stir in sour cream and serve over egg noodles."
+        ]
+      },
+      { 
+        "id": 30, 
+        "name": "Mochi",
+        "rating": 4.5,
+        "difficulty": "Medium", 
+        "image": "https://msshiandmrhe.com/wp-content/uploads/2023/10/Image_20231013175926-500x500.jpg",
+        "ingredients": [
+          "Ziti pasta",
+          "Ground beef",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese",
+          "Parmesan cheese",
+          "Garlic",
+          "Onions",
+          "Basil"
+        ],
+        "instructions": [
+          "Cook ziti pasta according to package instructions.",
+          "Cook ground beef with garlic and onions until browned.",
+          "Mix tomato sauce, ricotta, mozzarella, and Parmesan cheese.",
+          "Combine pasta, meat sauce, and cheese mixture, and bake for 25 minutes."
+        ]
+      },
+      { 
+        "id": 31, 
+        "name": "kimichi hotpot", 
+        "rating": 3.5,
+        "difficulty": "Medium", 
+        "image": "https://sudachirecipes.com/wp-content/uploads/2023/07/kimchi-nabe-thumb.jpg",
+        "ingredients": [
+          "Chicken breasts",
+          "Bell peppers",
+          "Onions",
+          "Fajita seasoning",
+          "Tortillas",
+          "Lime"
+        ],
+        "instructions": [
+          "Cook chicken breasts with fajita seasoning until browned.",
+          "Sauté peppers and onions.",
+          "Serve chicken and vegetables in tortillas with a squeeze of lime."
+        ]
+      },
+      { 
+        "id": 32, 
+        "name": "sushi",
+        "rating": 4.5,
+        "difficulty": "Hard", 
+        "image": "https://static.srpcdigital.com/styles/1037xauto/public/2024-06/690129_0.jpeg.webp",
+        "ingredients": [
+          "Chickpeas",
+          "Onion",
+          "Garlic",
+          "Coriander",
+          "Cumin",
+          "Parsley",
+          "Flour"
+        ],
+        "instructions": [
+          "Blend chickpeas with garlic, onion, and spices.",
+          "Form into balls and fry until golden brown."
+        ]
+      },
+      { 
+        "id": 33, 
+        "name": "Grilled eggplant",
+        "rating": 4.5, 
+        "difficulty": "Medium", 
+        "image": "https://www.everylastbite.com/wp-content/uploads/2018/07/DSC_3089.jpg",
+        "ingredients": [
+          "Tomatoes",
+          "Eggs",
+          "Onions",
+          "Garlic",
+          "Paprika",
+          "Cumin"
+        ],
+        "instructions": [
+          "Sauté onions and garlic, then add tomatoes and spices.",
+          "Simmer until the sauce thickens, then crack eggs into the pan.",
+          "Cover and cook until eggs are set."
+        ]
+      },
+      { 
+        "id": 34, 
+        "name": "egg fried rice",
+        "rating": 4.5,  
+        "difficulty": "Medium", 
+        "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FSeries%2F2020-04-snapshot-cooking-5-recipes-to-make-with-2-cups-of-rice%2Fthekitchn-pork-fried-rice-beauty_70361c_landscape",
+        "ingredients": [
+          "Potatoes",
+          "Onions",
+          "Cream",
+          "Vegetable broth",
+          "Bacon"
+        ],
+        "instructions": [
+          "Cook onions and potatoes in vegetable broth until soft.",
+          "Add cream and simmer for 10 minutes.",
+          "Top with bacon bits before serving."
+        ]
+      },
+      { 
+        "id": 35, 
+        "name": "ice cream",
+        "rating": 5,  
+        "difficulty": "Hard", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9JYkX2TuqBWCBzltIqd85SC9GeNGU5Iz7g&s",
+        "ingredients": [
+          "Eggplant",
+          "Ground beef",
+          "Tomato paste",
+          "Bechamel sauce",
+          "Parmesan cheese"
+        ],
+        "instructions": [
+          "Layer eggplant, meat sauce, and bechamel sauce in a baking dish.",
+          "Top with Parmesan cheese and bake for 45 minutes."
+        ]
+      },
+      { 
+        "id": 36, 
+        "name": "masala dosa",
+        "rating": 4,  
+        "difficulty": "Medium", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKEAYZ3ZbYmeBWuhzSd3KZ-ED17V1pmfmHEw&s",
+        "ingredients": [
+          "Bell peppers",
+          "Ground beef",
+          "Rice",
+          "Tomato sauce",
+          "Onions",
+          "Cheese"
+        ],
+        "instructions": [
+          "Cook rice and ground beef.",
+          "Stuff peppers with rice, beef, and tomato sauce.",
+          "Bake at 375°F (190°C) for 25 minutes."
+        ]
+      },
+      { 
+        "id": 37, 
+        "name": "Mushroom curry",
+        "rating": 4.5,   
+        "difficulty": "Easy", 
+        "image": "https://images.themodernproper.com/production/posts/2019/Mushroom-Cream-Sauce-12_191012_000659.jpg?w=1200&q=82&auto=format&fit=crop&dm=1599769040&s=5763b1a2e24d437d671c99afe796a6b1",
+        "ingredients": [
+          "Sausages",
+          "Potatoes",
+          "Gravy"
+        ],
+        "instructions": [
+          "Cook sausages in a pan until browned.",
+          "Mash potatoes and serve with sausages and gravy."
+        ]
+      },
+      { 
+        "id": 38, 
+        "name": "palkova",
+        "rating": 5,   
+        "difficulty": "Easy", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCH-0rupGhAXoPjtRX9iKIfMbJQ9A8wDAkSw&s",
+        "ingredients": [
+          "Cornmeal",
+          "Flour",
+          "Eggs",
+          "Milk",
+          "Butter"
+        ],
+        "instructions": [
+          "Mix all ingredients into a batter.",
+          "Pour into a greased pan and bake at 375°F (190°C) for 25 minutes."
+        ]
+      },
+      { 
+        "id": 39, 
+        "name": "potato tower",
+        "rating": 3.5,   
+        "difficulty": "Easy", 
+        "image": "https://m.media-amazon.com/images/I/71l7u+u3XDL._AC_UF1000,1000_QL80_.jpg",
+        "ingredients": [
+          "Spinach",
+          "Artichokes",
+          "Cream cheese",
+          "Parmesan cheese",
+          "Garlic"
+        ],
+        "instructions": [
+          "Mix all ingredients and bake at 375°F (190°C) for 20 minutes."
+        ]
+      },
+      { 
+        "id": 40, 
+        "name": "biryani",
+        "rating": 4.5,   
+        "difficulty": "Hard", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTv_xlzKT15LENcH9ITwnLXlQFCmkqX8Hl6Q&s",
+        "ingredients": [
+          "Chicken breasts",
+          "Garlic",
+          "Butter",
+          "Breadcrumbs"
+        ],
+        "instructions": [
+          "Stuff chicken breasts with garlic butter and coat in breadcrumbs.",
+          "Fry until golden brown and serve."
+        ]
+      },
+      { 
+        "id": 41, 
+        "name": "pani puri", 
+        "rating": 3.5,  
+        "difficulty": "Medium", 
+        "image": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/7/2017/05/17142930/180517_MMMithaiwala.jpg?w=1200&h=628&fill=blur&fit=fill",
+        "ingredients": [
+          "Fettuccine pasta",
+          "Heavy cream",
+          "Parmesan cheese",
+          "Butter",
+          "Garlic"
+        ],
+        "instructions": [
+          "Cook pasta according to package instructions.",
+          "Melt butter in a pan and sauté garlic.",
+          "Add cream and Parmesan, then toss pasta in the sauce."
+        ]
+      },
+      { 
+        "id": 42, 
+        "name": "fish tikka",
+        "rating": 2.5,   
+        "difficulty": "Easy", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0-716YYVz7e2Bvgf8LwdihesIgbJ5YwKD2Q&s",
+        "ingredients": [
+          "Greek yogurt",
+          "Cucumber",
+          "Garlic",
+          "Dill",
+          "Lemon"
+        ],
+        "instructions": [
+          "Grate cucumber and mix with yogurt, garlic, and dill.",
+          "Add a squeeze of lemon juice and serve."
+        ]
+      },
+      { 
+        "id": 43, 
+        "name": "noodles", 
+        "rating": 4,  
+        "difficulty": "Hard", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6zwfQlaf74DFjnrhRxq-oVJwzGdVY6Euzg&s",
+        "ingredients": [
+          "Pork shoulder",
+          "Orange",
+          "Cumin",
+          "Garlic",
+          "Cilantro"
+        ],
+        "instructions": [
+          "Slow cook pork with orange, cumin, and garlic.",
+          "Shred the pork and serve with cilantro."
+        ]
+      },
+      { 
+        "id": 44, 
+        "name": "chicken wings",
+        "rating": 3.5,   
+        "difficulty": "Medium", 
+        "image": "https://i.redd.it/ayflz3j9rl1c1.jpeg",
+        "ingredients": [
+          "Beef",
+          "Paprika",
+          "Potatoes",
+          "Onions",
+          "Tomatoes"
+        ],
+        "instructions": [
+          "Sauté onions and beef.",
+          "Add potatoes, tomatoes, and paprika.",
+          "Simmer until tender."
+        ]
+      },
+      { 
+        "id": 45, 
+        "name": "salad", 
+        "rating": 2.5,
+        "difficulty": "easy", 
+        "image": "https://kalejunkie.com/wp-content/uploads/2023/05/ItalianChoppedSalad_Shot5_208.jpg",
+        "ingredients": [
+          "Duck",
+          "Soy sauce",
+          "Honey",
+          "Scallions",
+          "Pancakes"
+        ],
+        "instructions": [
+          "Marinate duck in soy sauce and honey.",
+          "Roast the duck and serve with pancakes and scallions."
+        ]
+      },
+      { 
+        "id": 46, 
+        "name": "pasta",
+        "rating": 4,   
+        "difficulty": "easy", 
+        "image": "https://hips.hearstapps.com/hmg-prod/images/easy-dinner-recipes-chili-mac-and-cheese-6721330c2edff.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "ingredients": [
+          "Eggplant",
+          "Ground beef",
+          "Tomato sauce",
+          "Bechamel sauce"
+        ],
+        "instructions": [
+          "Layer eggplant, meat sauce, and bechamel sauce in a baking dish.",
+          "Top with cheese and bake at 375°F (190°C) for 45 minutes."
+        ]
+      },
+      { 
+        "id": 47, 
+        "name": "burger",
+        "rating": 4.5,   
+        "difficulty": "Easy", 
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/06/Chicken-and-halloumi-burgers-d751f9e.jpg?quality=90&resize=556,505",
+        "ingredients": [
+          "Tomatoes",
+          "Mozzarella",
+          "Basil",
+          "Olive oil",
+          "Balsamic vinegar"
+        ],
+        "instructions": [
+          "Slice tomatoes and mozzarella.",
+          "Arrange on a plate with basil, drizzle with olive oil and balsamic vinegar."
+        ]
+      },
+      { 
+        "id": 48, 
+        "name": "honey galic shimp",
+        "rating": 3.5,   
+        "difficulty": "Medium", 
+        "image": "https://www.acouplecooks.com/wp-content/uploads/2020/12/Honey-Garlic-Shrimp-026.jpg",
+        "ingredients": [
+          "Ground lamb",
+          "Cumin",
+          "Garlic",
+          "Parsley",
+          "Coriander"
+        ],
+        "instructions": [
+          "Mix ground lamb with garlic, cumin, parsley, and coriander.",
+          "Shape into skewers and grill."
+        ]
+      },
+      { 
+        "id": 49, 
+        "name": "Chicken Curry",
+        "rating": 5,    
+        "difficulty": "Hard", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajy42JL8gH7fdiz9vnu7wZXkTrrCmR0FK2A&s",
+        "ingredients": [
+          "Salmon",
+          "Sushi rice",
+          "Nori",
+          "Soy sauce",
+          "Wasabi"
+        ],
+        "instructions": [
+          "Cook sushi rice and spread on a sheet of nori.",
+          "Top with sliced salmon and roll.",
+          "Serve with soy sauce and wasabi."
+        ]
+      }
+    ]
+  }
